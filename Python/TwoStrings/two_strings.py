@@ -1,4 +1,5 @@
 #!/bin/python
+# https://www.hackerrank.com/challenges/two-strings
 
 import sys
 
